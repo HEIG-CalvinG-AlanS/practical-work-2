@@ -1,0 +1,7 @@
+*.class
+target/
+.project
+.classpath
+*.jar
+*.war
+picocli-commands.json
